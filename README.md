@@ -1,3 +1,9 @@
+In this project I first imported the library "random".
+Then I created a list of the three logo's.
+It will ask for a number 0, 1 or 2 with the "input" function.
+Then it will tell you if you lost or won against the random one the computer choose. 
+
+
 ## Rock Paper Scissors
 
 # Instructions
